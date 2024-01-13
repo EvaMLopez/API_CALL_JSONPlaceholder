@@ -11,3 +11,10 @@ Instrucciones
 2.- Crea una tabla e imprime todos los usuarios con su ID, nombre y la ciudad donde reside.
 
 3.- Crea un input con su botón para que el usuario de tu aplicación pueda solicitar mediante el ID los datos de un solo usuario. Hecha la solicitud, imprime en pantalla el nombre y el teléfono del usuario solicitado.
+
+
+### Resultado
+<div>
+    <img src="./assets/readme/API_CALL_JSONPlaceholder.JPG">
+    <img src="./assets/readme/Result_APICall_JSONPlaceholder.gif">
+</div>

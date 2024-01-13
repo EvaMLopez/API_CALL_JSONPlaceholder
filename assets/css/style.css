@@ -1,0 +1,71 @@
+#userDetailsTable {
+    display: none;
+ }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;    
+}   
+
+h1 {
+    color: #339;
+    margin: 40px 150px; 
+}
+#infoJson {
+    text-align: center;
+}
+    
+table {    
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    table-layout: auto;
+    font-size: 12px;    
+    margin: 45px;     
+    width: 350px; 
+    text-align: left;    
+    border-collapse: separate;     
+}
+
+th, caption {     
+    font-size: 13px;     
+    font-weight: normal;     
+    padding: 8px;     
+    background: #b9c9fe;  
+    border-bottom: 1px solid #fff; 
+    color: #039; 
+}
+
+td {    
+    padding: 8px;     
+    background: #e8edff;     
+    border-bottom: 1px solid #fff;
+    color: #669;    
+    border-top: 1px solid transparent; 
+}
+
+tr:hover td { 
+    background: #d0dafd; 
+    color: #339; 
+}
+
+input {
+    margin-left: 150px;
+    width: 40px;
+}
+
+button {
+    color: white;
+    background-color:#669; 
+    border:none;
+    padding: 7px;
+    cursor: pointer;
+    border-radius: 14px;
+}
+
+button:hover{
+    background-color: #339;  
+}
+
+button:active{
+    background-color: white; 
+    border: 1px solid #339; 
+    color: #039;
+}
